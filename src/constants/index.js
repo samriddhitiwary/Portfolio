@@ -105,59 +105,42 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      title: "GSSOC-TOP 100 Certificate",
+      company_name: "GirlScript Summer of code",
+      
+     
+      date: "October 2024 - Novemeber 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+       "For being one of the top 100 contributors, I was honored with a Certificate of Appreciation – a special recognition reserved for the top performers.",
+       " I achieved the 68𝘁𝗵 position out of over **70,000+ participants**, with **3,900+ active contributors** worldwide!",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      title: "Hacktoberfest",
+      company_name: "Digital Ocean",
+     
+      date: "October 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+       " I’ve successfully completed my Hacktoberfest challenges and earned all the FOUR badges",
+       "Hacktoberfest, conducted by DigitalOcean, GitHub, and other partners, has been an incredible experience. ",
+       "It allowed me to contribute to open-source projects, learn from a diverse community of developers, and improve my coding skills.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      title: "HackWeb3Conf Hackathon Semi-Finalist",
+      company_name: "GirlScript Summer of code",
+      
+      date: "December 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "My idea CryptoWarriors, has been selected among the Top 100 at HackWeb3Conf 2024, standing out from over 1,600 developers and 600 innovative submissions",
+        "CryptoWarriors is a play-to-earn blockchain game that enables players to own NFT warriors, engage in challenging quests, trade valuable assets, and earn cryptocurrency rewards",
+        "The game fosters collaboration through alliances and offers competitive tournaments, blending immersive gameplay with a decentralized economy to deliver tangible value to its players.",
       ],
     },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
+    
+    
   ];
-  
+
   const testimonials = [
     {
       testimonial:
@@ -184,6 +167,8 @@ import {
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
+  
+  
   
   const projects = [
     {
