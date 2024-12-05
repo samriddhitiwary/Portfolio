@@ -172,68 +172,50 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Fern and Petal",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Built a responsive front-end clone of the Fern and Petal website using React. " +
+        "Implemented React Router for seamless navigation and styled the UI with React Bootstrap for a mobile-friendly design. " +
+        "Created interactive features like product displays and image sliders for enhanced user experience.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "JS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/samriddhitiwary/fernNpetal",
     },
     {
-      name: "Job IT",
+      name: "Boat Website Clone",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "I built a responsive clone of the Boat website using HTML, CSS, and JavaScript. The project involved creating product listings and a clean, intuitive navigation system. I implemented interactive features such as image sliders and product filters to enhance the user experience.",
       tags: [
         {
-          name: "react",
+          name: "Html",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "CSS",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "JS",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/samriddhitiwary/Boat",
     },
   ];
+  
   
   export { services, technologies, experiences, testimonials, projects };
