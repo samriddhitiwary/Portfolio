@@ -21,6 +21,19 @@ export default {
       backgroundImage: {
         "hero-pattern": "url('/src/assets/herobg.png')",
       },
+      animation: {
+        autoRun: "autoRun 20s linear infinite",
+      },
+      keyframes: {
+        autoRun: {
+          from: {
+            transform: "perspective(1000px) rotateX(-16deg) rotateY(0deg)",
+          },
+          to: {
+            transform: "perspective(1000px) rotateX(-16deg) rotateY(360deg)",
+          },
+        },
+      },
     },
   },
   plugins: [],
